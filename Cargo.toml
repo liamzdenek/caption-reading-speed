@@ -1,0 +1,11 @@
+[package]
+name = "reading-speed"
+version = "0.1.0"
+authors = ["Liam Zdenek <liamzdenek@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+derive_builder = "0.7.1"
+failure = "0.1.5"
